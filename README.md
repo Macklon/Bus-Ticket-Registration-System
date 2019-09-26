@@ -4,4 +4,4 @@ Semester 2
 
 Java Programming Assignment
 
-Bus Ticket Registration System using Netbeans
+Bus Ticket Registration System using NetBeans IDE
